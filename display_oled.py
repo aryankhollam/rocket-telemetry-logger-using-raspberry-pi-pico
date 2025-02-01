@@ -99,7 +99,7 @@ def draw_liner(angle, length):
     dsp.line(xEnd1, yEnd1, xEnd2, yEnd2, 1)
 
 # Initialize the OLED display
-i2c2 = I2C(1, sda=Pin(26), scl=Pin(27), freq=400000)
+i2c2 = I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
 dsp = SSD1306_I2C(128, 64, i2c2)
 dsp.fill(0)
 
