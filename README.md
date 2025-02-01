@@ -112,7 +112,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 Author
-[Aryan Khollam](https://github.com/aryankhollam)
+[Aryan Khollam](https://github.com/aryankhollam) & ChatGPT
 
 ---
 
