@@ -6,7 +6,7 @@ Here’s a comprehensive `README.md` file for your project, including warnings, 
 
 # Rocket Telemetry Logger Using Raspberry Pi Pico
 
-![Project Image](Avionica+_bb.jpg)
+![Project Image](circuit_diagram_fritzing.jpg)
 
 This project is a rocket telemetry logger that uses a Raspberry Pi Pico to log roll, pitch, and altitude data from an MPU6050 accelerometer/gyroscope and a BMP280 barometric pressure sensor. The data is displayed on an SSD1306 OLED screen and logged to an SD card for further analysis.
 
