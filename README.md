@@ -57,7 +57,7 @@ Installation
 
 ---
 
-Wiring Diagram
+Wiring Chart
 | Raspberry Pi Pico | MPU6050 | BMP280 | SSD1306 | SD Card Module | Buzzer |
 |-------------------|---------|--------|---------|----------------|--------|
 | 3V3 (Pin 36)      | VCC     | VCC    | VCC     | VCC            |        |
